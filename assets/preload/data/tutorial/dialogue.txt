@@ -1,0 +1,39 @@
+:musicloop:bgms/1
+:bg:cutscenes/1
+:noone:Narrator: Ah!! If it ain't the main characters of the story. I wonder what they are doing right now.
+:bg:cutscenes/2
+:noone:Narrator: Oh wait... These are the wrong main characters. My bad..
+:musicstop:
+:musicloop:bgms/2
+:bg:cutscenes/3
+:noone:Narrator: Ah here we go! The main character of the story. Let's see what he is up to!
+:noone-crystal:Crystal: Aw man.. I'm hungry and i can really go for some nuggies..
+:bg:cutscenes/4
+:noone-crystal:I forgot that i spent all my savings on vtubers. God damn it, why do i have to be so damn supportive.
+:bg:cutscenes/5
+:noone-crystal-auto:Maybe i should work for mcdonalds and just get free nuggies that wa-
+:bg:cutscenes/6
+:sound:posterSlap
+:noone-crystal:Wah!
+:bg:cutscenes/7
+:sound:posterRemove
+:noone-crystal-auto:Aw come on, I lose my money and now i get slapped by a piece of pape-
+:bgOverlay:cutscenes/8
+:sound:SHOCKED
+:shakeOverlay:0.005,0.5
+:noone-crystal:WHOA?!
+:overlayHide:
+:bg:cutscenes/9
+:noone-crystal:Well.. this solves all my problems. So why not!
+:musicstop:
+:bgFadeOut:2
+:midText:As crystal arrived to the showdown, he heard a familiar voice coming from the greenroom
+:midTextFadeOut:1
+:bghide:
+:bgFadeIn:1
+:crystal:Oh hey Kuna! I knew i heard a familiar voice!
+:kuna:Well if it isn't my little bro, what are you doing here? You don't even know how to sing
+:crystal-auto:Uh-
+:kuna:You are just here for the money, aren't you?
+:crystal:yeah...
+:kuna:*sigh*, alright let's teach you the basics

@@ -1,0 +1,9 @@
+bee_hanii Tile = 0 0 600 600
+Crystal Blitz Tile = 600 0 600 600
+disky Tile = 1200 0 600 600
+elikapika Tile = 0 600 600 600
+Fpeyro Tile = 600 600 600 600
+fueg0 Tile = 0 1200 600 600
+GWebDev Tile = 600 1200 600 600
+staromelo Tile = 1200 600 600 600
+Tama Tile = 1200 1200 600 600
